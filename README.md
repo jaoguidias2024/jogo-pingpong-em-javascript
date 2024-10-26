@@ -1,1 +1,1 @@
-# js-pingpong
+# Jogo de PingPong em JavaScript
